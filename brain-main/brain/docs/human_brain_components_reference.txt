@@ -1,0 +1,252 @@
+Cerebellum
+---
+Contains about 70 billion neurons (5X the physically larger cerebral cortex)
+cerebellum helps improve motor skills by detecting errors in movements and making minute adjustments to the next movement.
+These adjustments strengthen the connections within neural circuits encoding complex movement. 
+These 'procedural' memories of learned motor skills can persist even when memories of events are disrupted by damage to the hippocampus
+
+Corpus Callosum
+---
+White matter 'superhighway' in the brain. 
+A wide bundle of neural connections linking the left and right hemispheres of the cerebral cortex.
+Neurons from either hemisphere stretch their axons through the corpus callosum to communicate with neurons in the opposite hemisphere.
+
+Right Cerebral hemisphere
+---
+Cerebral cortex is the largest part of the brain, structurally. However, it only has about 16 Billion neurons, and 60 billion glia in the cerebral cortex
+Arranged into six layers that guide the development of useful neural circuits
+The six layers of the cerebral cortex are the brain's signal processing 'grey matter'
+Responsible for perception, decision making, language, and more.
+
+Left Cerebral hemisphere
+--- 
+both hemispheres are comprised of four lobes containing discrete regions with specific functions
+Some functions are shared by redundant areas in both hemispheres
+Some functions are focused in a single hemisphere
+
+Frontal lobe (contains orbitofrontal cortex, premotor cortex, middle frontal gyrus, inferior frontal gyrus, prefrontal cortex, motor cortex, and Broca's area)
+---
+The largest lobe of the cerebral cortex, and is responsible for behavioral traits such as personality, decision making, and motor control
+makes sense of information about the environment, memories, and emotions, then uses these to make decisions.
+The frontal lobe has connections to nearly every other part of the brain, and decides which information to focus on at a given time
+Responsible for attention span, and shifting focus
+frontal lobe is responsible for working memory, which keeps relevant information available for a short period of time in order to make complex decisions
+
+Orbitofrontal Cortex
+---
+helps to understand the consequences of complex behaviors and adjust those behaviors to reach a specific desired outcome, especially socially
+
+Premotor Cortex
+---
+controls complex movements
+also plays a role in decision making, similar to the prefrontal cortex
+
+Middle Frontal gyrus
+---
+'negotiates' between our goal-directed behaviors and our reactions to external events, reconciling information from the orbitofrontal cortex with sensory information from the rest of the cerebral cortex
+
+Inferior Frontal gyrus
+---
+responsible for response inhibition, or stopping a behavior when given an appropriate cue 
+it is home to the Broca's area which controls the production of language
+
+Prefrontal Cortex 
+---
+grants executive function, or the ability to make complex and socially mindful decisions
+must filter out unimportant sensations, focus our attention on the task at hand, and contextualize our decisions with memories of the past and predictions about how our behavior will influence the future
+
+Motor Cortex 
+---
+the primary motor cortex constantly communicates with the basal ganglia, the cerebellum, and areas of the cerebral cortex to ensure intentional, precise, and coordinated outputs with our sensory perception
+
+Broca's area
+---
+small region of the inferior frontal gyrus necessary for the production of speech
+only found in the left hemisphere
+
+Occipital lobe (contains the primary visual cortex)
+---
+decodes visual signals
+visual information arrives at the occipital lobe from the retina via the thalamus
+retina bears some of the burden of detecting colors, edges, and movement in our field of vision
+the occipital lobe informs us about where, how and what we are seeing
+primary visual cortex is the first part to receive visual information, and neurons in this area detect high-contrast edges and their orientations, as well as motion.
+This information is relayed through the rest of the occipital lobe, either up towards the parietal lobe for determining a response based on motion, or down towards the temporal lobe to recognize objects.
+
+Primary visual cortex
+---
+first part of the occipital lobe to receive visual information
+from the primary visual cortex, visual information is relayed to other areas in the occipital, parietal, and temporal lobes for further processing.
+
+Parietal Lobe (contains the Inferior parietal lobule, superior parietal lobule, precuneus, and the somatosensory cortex)
+---
+integrates information from our senses to focus our attention on important things in the environment
+interprets the sense of touch and proprioception
+It also receives signals from the occipital lobe that reflect the location of objects in our visual field, which it uses to 'paint a realistic picture of the surroundings'
+
+Inferior Parietal lobule
+---
+mathematical reasoning, language comprehension, and even the use of tools depend on neural circuits in this region
+
+Superior Parietal lobule
+---
+reconciles visual information from the occipital lobe with the sense of touch from somatosensory cortex
+helps identify objects by touch (although brain will not do this yet)
+it helps sift through pieces of information held in working memory, and pay attention to events in the environment.
+
+Precuneus
+---
+located deep in the cerebral cortex, the precuneus is involved in functions like imagination, self-consciousness, and reflecting on memories of past events
+
+Somatosensory Cortex 
+---
+front-most portion of the parietal lobe
+receives information from touch receptors (sensors) located throughout the body
+(for the time being, brain is only going to have Auditory and Visual sensory input, so this may be unnecessary)
+
+Temporal Lobe (this contains the primary auditory cortex and the Wernicke's Area)
+---
+Houses memories, emotions, and language comprehension
+contains the hippocampus, primary auditory cortex, and wernicke's area 
+key for the recognition of objects, places, and people.
+Information from throughout the brain is funneled through the entorhinal cortex of the temporal lobe and into the hippocampus to create memories 
+temporal lobe links words, written or spoken, to their semantic meanings
+Interestingly, it is a 'hotspot' for epilepsy, which may indicate something deeper about its functionality.
+
+Primary Auditory Cortex 
+---
+interprets surroundings
+neurons on one side detect high-frequency sounds 
+neurons on the other side detect low-frequency sounds
+enables the indentification of unique sounds
+used to identify the origin of sounds by comparing the timing of the left and right ears
+
+Wernicke's Area
+---
+wernicke's area is the counterpart to Broca's area 
+allows people to comprehend language, both written and spoken (broca's area helps with language *production*)
+Is essential for mapping words to semantic meaning, and works with other regions to validate spoken words, as well as heard language, and written words visually seen.
+
+Cingulate Cortex 
+---
+important part of the limbic system
+group of interconnected brain structures involved in emotions
+anterior portion of the cingulate cortex is also involved in the processing of the emotional distress of pain.
+
+Midbrain
+---
+also known as the mesencephalon
+cluster of dopamine-producing cells called the substantia nigra helps regulate movement
+
+Pons 
+---
+Contains the locus ceruleus
+important for attention
+
+Medulla Oblongata
+---
+breathing control
+not necessary for brain at this time.
+
+Limbic System 
+---
+large group of brain structures responsible for motivation, emotion, learning, and memory 
+structures within include the hippocampus (memory), amygdala (fear and reward), hypothalamus (hormones and sleep), basal ganglia (motivation and voluntary motion), and the cingulate gyrus (gateway to the limbic system from the cerebral cortex)
+
+Entorhinal Cortex
+---
+bridges the cerebral cortex with the hippocampus funneling different types of sensations such as hearing and sight into the hippocampus for consolidation into a memory 
+contains networks of 'grid cells' which are neurons that help relate location in space to the external environment
+
+amygdala
+---
+small region
+works with the hippocampus to create long-term memories of specific, and often emotional, events (also called episodic memory).
+Known for linking fear, aggression, and anxiety to knowledge of people or places
+the amygdala creates these associations by changing the strength of connections between neurons, known as 'long term potentiation'.
+Ensures threats can be avoided in the future.
+
+Hippocampus (contains the subiculum and the dentate gyrus)
+---
+responsible for long-term memory (important events).
+it is part of the limbic system.
+it communicates with the rest of the brain via the entorhinal cortex.
+produces new neurons throughout one's life, while the rest of the brain stops growing early in childhood
+as new neurons mature in the hippocampus, they link up with neurons throughout the brain to form associations between different aspects of a memory.
+these memories are refined via changes to the strength of connections between neurons (long term potentiation) similar to what occurs in the amygdala.
+essentially links senses together to form associations between certain contextual cues.
+
+Subiculum 
+---
+conveys information about memories and places from the hippocampus out through the entorhinal cortex to the rest of the cerebral cortex.
+
+Dentate gyrus 
+---
+produces new neurons and oversees the formation of new memories
+neurons here receive signals from the entorhinal cortex, and then make appropriate neuronal connections throughout the cerebral cortex.
+These connections constitute memories.
+Enables spatial memory using long-term potentiation to update mental maps of the environment.
+
+Hypothalamus 
+---
+provides a link between the central nervous system and the endocrine system (glands that release hormones)
+controls the pituitary gland, which releases hormones that regulate various bodily functions.
+keep body temperature in check, regulate thirst and hunger, and oversee circadian rhythms
+
+Thalamus 
+---
+located in the middle of the brain
+relays information about most of our senses out to the rest of the brain 
+'grand central station' for the sorting of sensory information before it connects to the cortex.
+vision, hearing, touch, proprioception, and taste signals are all routed through the thalamus before being sent to their respective places in the cerebral cortex.
+it also receives feedback from the cerebral cortex, which helps it filter sensory information in 'real time' before forwarding it along (noise suppression, relevance)
+connected to other regions like the hippocampus and the brainstem
+may also be important for coordinating signals between various lobes of the cerebral cortex that control attention
+
+Pituitary Gland 
+---
+produces and releases hormones controlling bodily functions and behaviors.
+key component of the endocrine system and helps relay signals from the hypothalamus to the rest of the body, and receives chemicals back to sense the body's response.
+regulates stress
+
+Basal Ganglia (which contains the Caudate nucleus, the globus pallidus, nucleus accumbens, putamen, substantia nigra, and the subthalamic nucleus)
+---
+group of brain structures that control voluntary movements, habitual behaviors, and emotions.
+comprised of six structures, already listed.
+underneath the cerebral cortex but on top of the brainstem.
+intermediary between our higher thoughts, sensations, and reflexes.
+
+Caudate Nucleus
+---
+caudate nucleus and putamen is a conduit for information from the cerebral cortex into the basal ganglia
+receives signals relating to decision-making, motivation, and motor control
+promotes behaviors that will result in rewards as opposed to punishments
+helps the brain select and refine movements for a given task, while preventing unnecessary movement
+
+Globus Pallidus 
+---
+receives signals from the caudate nucleus and the putamen, and sends information about motor control back to the cerebral cortex, via the thalamus
+signals from the globus pallidus put a direct brake on unnecessary muscle contractions, keeping movement intentional and smooth. 
+
+Nucleus Accumbens
+---
+controls reward, motivation, and addiction
+dopamine is released onto neurons in the nucleus accumbens upon completion of a satisfying or rewarding behavior
+helps train the brain to engage in satisfying or rewarding behaviors more in the future
+
+putamen
+---
+works with the caudate nucleus to transfer information from the frontal cortex to the globus Pallidus
+is involved in the initiation and learning of motor movements
+
+Substantia nigra
+---
+initiates movements by sending signals to the dorsal striatum
+
+Subthalamic Nucleus 
+---
+dampens signals from the basal ganglia that normally initiate movement
+it also slows down decision-making to ensure that enough time is taken to make a correct choice
+it's a tiny region of the brain, about the size of a pea on both sides of the brain, in the center
+
+

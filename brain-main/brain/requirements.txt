@@ -1,0 +1,17 @@
+torch
+transformers
+huggingface-hub
+numpy
+pillow
+opencv-python
+sounddevice
+pygame
+tqdm
+pyyaml
+faiss-cpu
+pyzmq
+msgpack
+msgpack-numpy
+psutil
+soundfile
+librosa

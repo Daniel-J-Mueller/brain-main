@@ -1,0 +1,64 @@
+# Default configuration for brain
+
+# GPU allocation for each major module
+devices:
+  retina: cuda:1
+  cochlea: cuda:2
+  occipital_lobe: cuda:1
+  auditory_cortex: cuda:2
+  dmn: cuda:2
+  hippocampus: cuda:2
+  cortex_modules: cuda:2
+  motor_cortex: cuda:3
+  language_areas: cuda:3
+  trainer: cuda:0
+
+# Paths to offline models relative to repository root
+models:
+  clip: models/clip-vit-b32
+  whisper: models/whisper-small
+  gpt2: models/gpt2
+  bert: models/bert-base-uncased
+# Embedding model options:
+# 1 - gpt2
+# 2 - bert-base-uncased
+embedding_model: 2
+
+# Directory for saving learned state
+persistent_dir: persistent
+log_dir: logs
+
+settings:
+  # Seconds to wait between live loop iterations
+  loop_interval: 0.02
+  # Audio recording window in seconds
+  audio_duration: 1
+  # Set true to disable video capture and processing
+  debug_no_video: false
+  log_to_file: true
+  # Capacity of episodic memory buffer
+  hippocampus_capacity: 1000000
+  hippocampus_recall_threshold: 0.2
+  hippocampus_shards: 2
+  cerebral_hemispheres: 2
+  hippocampus_independent: true
+  num_amygdala: 2
+  hippocampus_salience_threshold: 0.0
+  # Number of speculative motor tokens to generate per step (debug mode)
+  motor_candidates: 1
+  neurogenesis: true
+  training_buffer: 5  # seconds to retain context for GUI feedback
+  ifg_feedback_buffer: 30  # seconds that inhibition feedback remains active
+  gpu_debug: true
+  model_timing_debug: true
+
+  serotonin_baseline: 0.5
+  dopamine_baseline: 0.5
+  # Recalculate token and valence lookup tables on startup
+  recalculate_lookup_tables: true
+  # Gradually increase action gating threshold after launch
+  enable_action_threshold_ramping: false
+  # Seconds over which the action threshold ramps from minimum to maximum
+  action_threshold_ramp_duration: 60.0
+  # Threshold used when action threshold ramping is disabled
+  action_threshold_baseline: 0.50
