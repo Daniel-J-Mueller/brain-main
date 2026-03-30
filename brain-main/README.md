@@ -1,4 +1,4 @@
-![brain Logo](assets/brain_Banner_Cropped.png)
+![brain Logo](assets/brain_main.png)
 
 
 # brain
