@@ -45,6 +45,8 @@ Then, you can orchestrate entire digital brains with 10-100+ vectors, and give t
 
 NEAT algorithms could be powerful, but that's not a small risk, by any means, and should be handled with excrutiating care and respect.
 
+NOTE: The current output of brain-main is to the motor cortex. This is a poor mapping, as this is a lossy mapping in humans, and is set to a 'neuron-per-token' output model as of now. Future versions will distance the token outputs in space, such that the lossy nature can be preserved, although this is not straightforward given the multiplicity of token semantics mappings.
+
 ## Getting Started
 
 1. **Install Dependencies**
