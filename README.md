@@ -31,7 +31,7 @@ human-like perception, memory and decision making rather than maximizing scores
 on intelligence benchmarks.
 
 Because of this behavioural focus, raw measures of intellect such as IQ do not
-determine whether something counts as AGI. Just as we respect people
+determine whether something counts as AGI. Just as we regard people
 independently of their test results, an artificial agent may qualify as AGI
 even if its measured intelligence varies widely.
 
@@ -43,7 +43,7 @@ Collapsing similar vectors yields a general neural topology.
 
 Then, you can orchestrate entire digital brains with 10-100+ vectors, and give them dimensionality ensuring that they are compatible from one to the next, or in conjunction. 
 
-NEAT algorithms could be powerful, but that's not a small risk, by any means, and should be handled with excrutiating care and respect.
+NEAT algorithms could be powerful, but that's not a small risk, by any means, and should be handled with excrutiating care and regard.
 
 NOTE: The current output of brain-main is to the motor cortex. This is a poor mapping, as this is a lossy mapping in humans, and is set to a 'neuron-per-token' output model as of now. Future versions will distance the token outputs in space, such that the lossy nature can be preserved, although this is not straightforward given the multiplicity of token semantics mappings.
 
